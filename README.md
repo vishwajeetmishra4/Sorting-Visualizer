@@ -44,12 +44,14 @@ I want you to know that contributions to this project are welcome and encouraged
 4. Test your changes thoroughly.
 5. Create a pull request to merge your changes into the main repository.
 
-Array elements before sorting 
+## Array elements before sorting 
+![Image](https://github.com/user-attachments/assets/1654c858-7583-4088-8487-8fa75c6c927b)
 
+## Array elements while sorting 
+![Image](https://github.com/user-attachments/assets/9c18ba4d-bfef-4bcc-81b6-0ebae2fe5e55)
 
-Array elements while sorting 
-
-Array elements after sorting 
+## Array elements after sorting 
+![Image](https://github.com/user-attachments/assets/7f876e45-2ff4-47a4-b2d6-6ba740c80688)
 
 
 
