@@ -35,14 +35,6 @@ git clone https://github.com/Vishwajeetmishra4/Sorting-Visualizer.git
 5. Observe the elements being sorted in real time on the graphical display.
 6. Once the sorting is complete, experiment with other sorting algorithms or modify the input data to explore further.
 
-# Contribution
-I want you to know that contributions to this project are welcome and encouraged. To contribute:
-
-1. Fork the repository on GitHub.
-2. Create a new branch with a descriptive name for your feature or bug fix.
-3. Make your changes and improvements to the code.
-4. Test your changes thoroughly.
-5. Create a pull request to merge your changes into the main repository.
 
 ## Array elements before sorting 
 ![Image](https://github.com/user-attachments/assets/1654c858-7583-4088-8487-8fa75c6c927b)
@@ -52,6 +44,16 @@ I want you to know that contributions to this project are welcome and encouraged
 
 ## Array elements after sorting 
 ![Image](https://github.com/user-attachments/assets/7f876e45-2ff4-47a4-b2d6-6ba740c80688)
+
+
+# Contribution
+I want you to know that contributions to this project are welcome and encouraged. To contribute:
+
+1. Fork the repository on GitHub.
+2. Create a new branch with a descriptive name for your feature or bug fix.
+3. Make your changes and improvements to the code.
+4. Test your changes thoroughly.
+5. Create a pull request to merge your changes into the main repository.
 
 
 
