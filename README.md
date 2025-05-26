@@ -2,6 +2,10 @@
 # Introduction
 Sorting Visualizer is a Java-based project designed to help users visualize different sorting algorithms through an intuitive Graphical User Interface (GUI). This tool provides an engaging and educational experience, allowing users to observe the step-by-step process of various sorting algorithms.
 
+# DEMO
+https://github.com/user-attachments/assets/969f4d79-7048-49a7-a430-74cd30a03770
+
+
 # Features
 Graphical User Interface (GUI): The project includes a user-friendly GUI that allows users to interact with and observe the sorting algorithms visually.
 
